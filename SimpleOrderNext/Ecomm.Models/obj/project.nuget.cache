@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gf1cL6geBlRqn3k07j+4qsiMwd8RF4qr3H/VmWI3nUCSDso0qGnAjV1+mYi84insc/SjzP4Q1vQ+JYZgpxtuTw==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\MicroservicesOrder\\SimpleOrderNext\\Ecomm.Models\\Ecomm.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.6\\microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.6\\microsoft.windowsdesktop.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.6\\microsoft.netcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
